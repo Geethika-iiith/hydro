@@ -15,3 +15,11 @@ hydro_code/
 hydro-project/
 extracted_text.txt
 extracted_text_2.txt
+
+# Exclude large/duplicate GeoJSON files not used by the frontend
+frontend/public/data/GIS/flow-path-length*.geojson
+frontend/public/data/GIS/filled-dem.geojson
+frontend/public/data/GIS/dem-vectorized.geojson
+frontend/public/data/GIS/stream-order.geojson
+frontend/public/data/GIS/our-catchment-area.geojson
+
