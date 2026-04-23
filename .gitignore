@@ -1,0 +1,17 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+dist/
+.env
+%TEMP%/
+*.tif
+*.tif.aux.xml
+*.qgz
+*.qmd
+*.gpkg
+*.pdf
+hydro_code/
+hydro-project/
+extracted_text.txt
+extracted_text_2.txt
