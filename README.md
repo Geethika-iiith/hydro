@@ -1,6 +1,6 @@
 # Himayat Sagar Flood Management 
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ashurudra09/hydro-final-project)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Geethika-iiith/hydro)
 
 ## Project Overview
 This repository contains the Himayat Sagar Flood Management Dashboard, serving as a decision support system for flood management. The pipeline aims to predict the advent of floods by analyzing the water level increase/decrease at Himayat Sagar, utilizing predicted rainfall, runoff models, and geographic data.
